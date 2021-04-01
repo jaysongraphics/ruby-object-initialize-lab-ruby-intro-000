@@ -8,5 +8,4 @@ class Person
         def person
           @person
         end
-        person = person.new
 end
