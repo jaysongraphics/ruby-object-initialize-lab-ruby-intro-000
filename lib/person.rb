@@ -8,6 +8,6 @@ class Person
         def person
           @person
         end
-end
+        person = person.new(Beyonce)
 
-person = person.new(Beyonce)
+end
