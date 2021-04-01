@@ -9,7 +9,6 @@ class Dog
           def breed= (bread)
             @bread = bread
           end
-
      def dog
        @name
        @breed
