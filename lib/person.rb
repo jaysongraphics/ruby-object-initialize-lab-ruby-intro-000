@@ -9,5 +9,4 @@ class Person
           @person
         end
         person = person.new(Beyonce)
-
 end
