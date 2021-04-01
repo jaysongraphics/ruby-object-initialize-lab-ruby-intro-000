@@ -3,9 +3,9 @@ class Person
         @person = person
         end
             def person= (person)
-              @person=person
+              @person = Beyonce
             end
         def person
-          @person = Beyonce
+          @person
         end
 end
