@@ -6,6 +6,6 @@ class Person
               @person=person
             end
         def person
-          @person
+          @person = Beyonce
         end
 end
