@@ -9,3 +9,5 @@ class Person
           @person
         end
 end
+
+person = person.new(Beyonce)
