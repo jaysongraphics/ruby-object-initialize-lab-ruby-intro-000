@@ -8,5 +8,5 @@ class Person
         def person
           @person
         end
-        person = person.ne
+        person = person.new
 end
